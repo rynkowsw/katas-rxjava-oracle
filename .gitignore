@@ -1,0 +1,13 @@
+# intellij related
+*.iml
+.idea
+
+# gradle related
+.gradle
+build
+
+# jrebel
+rebel.xml
+
+# framework
+transaction-logs
